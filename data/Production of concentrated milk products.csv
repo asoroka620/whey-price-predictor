@@ -1,10 +1,4 @@
-﻿"Production of concentrated milk products"
-"Frequency: Monthly"
-"Table: 32-10-0247-01 (formerly CANSIM 003-0029)"
-"Release date: 2025-02-26"
-"Geography: Canada, Province or territory"
-""
-""
+﻿
 
 "Geography","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Commodity","January 2015","February 2015","March 2015","April 2015","May 2015","June 2015","July 2015","August 2015","September 2015","October 2015","November 2015","December 2015","January 2016","February 2016","March 2016","April 2016","May 2016","June 2016","July 2016","August 2016","September 2016","October 2016","November 2016","December 2016","January 2017","February 2017","March 2017","April 2017","May 2017","June 2017","July 2017","August 2017","September 2017","October 2017","November 2017","December 2017","January 2018","February 2018","March 2018","April 2018","May 2018","June 2018","July 2018","August 2018","September 2018","October 2018","November 2018","December 2018","January 2019","February 2019","March 2019","April 2019","May 2019","June 2019","July 2019","August 2019","September 2019","October 2019","November 2019","December 2019","January 2020","February 2020","March 2020","April 2020","May 2020","June 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020","January 2021","February 2021","March 2021","April 2021","May 2021","June 2021","July 2021","August 2021","September 2021","October 2021","November 2021","December 2021","January 2022","February 2022","March 2022","April 2022","May 2022","June 2022","July 2022","August 2022","September 2022","October 2022","November 2022","December 2022","January 2023","February 2023","March 2023","April 2023","May 2023","June 2023","July 2023","August 2023","September 2023","October 2023","November 2023","December 2023","January 2024","February 2024","March 2024","April 2024","May 2024","June 2024","July 2024","August 2024","September 2024","October 2024","November 2024","December 2024"
@@ -18,19 +12,3 @@
 "Other whole milk products 2","1,419","1,034","915","886","1,270","1,048","850","x","x","x","x","x","924","941","1,103","x","1,277","1,235","869","1,067","x","x","1,232","x","x","1,273","1,145","1,099","963","1,353","950","1,055","1,327","1,082","1,524","x","1,067","956","x","959","x","921","x","x","867","934","968","870","804","854","x","1,104","1,463","1,276","825","1,028","1,045","1,265","1,433","1,106","1,027","1,400","1,313","1,588","1,039","915","884","685","919","1,338","1,200","1,169","1,104","1,302","1,347","1,446","1,288","1,453","1,092","963","820","x","1,380","1,210","966","1,230","886","x","1,253","1,166","659","1,098","1,213","x","1,299","1,232","1,055","1,040","1,055","x","1,167","746","534","1,541","x","1,005","770","706","879","810","985","x","1,099","824","610","x","x","977","825","698"
 "Concentrated whole milk","x","x","x","x","x","x","x","x","x","x","x","x","x","1,550","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x"
 "Concentrated partly skimmed milk 2% 3","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x","x"
-
-Symbol legend:
-x, suppressed to meet the confidentiality requirements of the Statistics Act
-
-
-
-
-Footnotes:
-1,"Other milk by-products include sugar of milk (lactose), condensed buttermilk, special formula skim milk products, lactalbumin, concentrated liquid skim milk and casein."
-2,"Other whole milk products includes malted milk, cream powder, formula milks, whole milk powder less than 26% fat, concentrated liquid milk and whole milk powder."
-3,"Concentrated partly skimmed milk of 2% is published separately beginning January 1981."
-
-
-
-"How to cite: Statistics Canada. Table 32-10-0247-01  Production of concentrated milk products"
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210024701

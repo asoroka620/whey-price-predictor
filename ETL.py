@@ -33,15 +33,43 @@ def transform_us_data(df):
     df = df[df['PERIOD'] != 'YEAR']
     df = df.rename(columns = {"VALUE" : "POUNDS"})
 
-def transform_can_data(quarter, total):
-    #Want to combine these two datasets, focsu on cleaning up the quarterly one first
-    quarter = quarter[quarter['Commodity'] = "Whey powder"]
-    #Keeps only the whey powder row
-    #Want to pivot this table longer, get quarters in rows, whey produced in columns
-    quarter = pd.melt(
-        quarter,
-        value_vars = []
-    )
+def transform_can_data_quarter(quarter):
+   # Maps the quarter totals to dictionairy
+   # Create empty df
+   # For each week, append the year,week, the quarter total / 13
+    whey = quarter[quarter["Commodity"] == "Whey powder"].iloc[0]
+    week_ranges = {
+        "Q1": range(1, 14),
+        "Q2": range(14, 27),
+        "Q3": range(27, 40),
+        "Q4": range(40, 53)
+    }
+
+    df_list = []
+
+    for col in whey.index:
+        if col == "Commodity":
+            continue
+
+        qtr, year = col.split(" ")
+        year = int(year)
+
+        tonnes = int(str(whey[col]).replace(",", ""))
+        tonnes_per_week = tonnes / 13
+
+        for week in week_ranges[qtr]:
+            df_list.append({
+                "Year": year,
+                "Week": week,
+                "Tonnes": tonnes   })
+
+def transform_can_data_total(total):
+    # Create weeks column and assign a week number based on the date
+    # Get rid of any row that is not whey powder
+    # Pivot the table longer
+    #Create a year and month column and split the year and month on " "
+    #Create empty df, that contains year, week number, tonnes prod.
+    
 
 def main():
     us_dry_whey_prod, canada_quarterly_stock, canada_prod_concen_milk = extract()
