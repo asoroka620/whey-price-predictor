@@ -1,0 +1,41 @@
+﻿"Stocks of specified dairy products, quarterly 1 2"
+"Frequency: Quarterly"
+"Table: 32-10-0480-01"
+"Release date: 2026-08-27"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+""
+""
+
+"Geography","Canada",,,,
+"Stocks","Total stocks",,,,
+"Commodity","Q2 2025","Q3 2025","Q4 2025","Q1 2026","Q2 2026"
+,"Tonnes",,,,
+"Creamery butter","25,782","27,118","23,662","23,445","24,895"
+"Cheddar cheese","41,781","41,720","42,764","41,787","40,014"
+"Specialty cheese","35,740","35,104","35,953","40,734","36,907"
+"Whey butter","281","253","366","443","378"
+"Process cheese","11,756","10,506","10,842","11,433","9,452"
+"Whole milk powder","x","x","x","x","x"
+"Skim milk powder","26,315","27,323","27,520","26,570","26,089"
+"Powdered buttermilk","x","x","474","598","682"
+"Whey powder","9,722","9,974","7,187","6,812","6,415"
+"Sweetened concentrated whole milk","x","x","x","x","x"
+"Concentrated whole milk","1,062","226","x","503","x"
+"Concentrated partly skimmed milk","x","x","x","x","x"
+"Concentrated skim milk","x","x","x","x","x"
+"Sweetened concentrated skim milk","x","x","x","x","x"
+
+Symbol legend:
+x, suppressed to meet the confidentiality requirements of the Statistics Act
+
+
+
+
+Footnotes:
+1,"These data represent the ending stocks of the quarter."
+2,"This publication transitioned from a monthly to a quarterly frequency in February 2025. Monthly values from 1970 to January 2025 are available in table 32-10-0001."
+
+
+
+"How to cite: Statistics Canada. Table 32-10-0480-01  Stocks of specified dairy products, quarterly"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210048001
