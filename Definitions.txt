@@ -1,0 +1,11 @@
+Total stocks: The sum of all measured opening or ending inventory variables within the 
+domestic supply chain at a specific point in time, required to balance total supply 
+with total disposition
+    Essentially, the entire total including imports
+
+Manufactures and government stocks: 
+    Manufacture: All stocks held by manufacturers, excluding stock held on Canadian 
+    Dairy Commission Accounts
+
+    Government: All stocks held by the Canadian Dairy Commission, 
+    including stocks held on behalf of the federal government and provincial governments
